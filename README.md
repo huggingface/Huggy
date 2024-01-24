@@ -1,5 +1,7 @@
 # Huggy 🐶
 
+<img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/notebooks/unit-bonus1/huggy.jpg" alt="Huggy"/>
+
 Huggy is a Unity ML-Agents environment showcasing a dog mastering stick-catching through deep reinforcement learning.
 
 You can **play with him in your browser** 👉 [here](https://huggingface.co/spaces/ThomasSimonini/Huggy)
